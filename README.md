@@ -6,7 +6,7 @@ Création d'un formulaire "Se connecter" (sign in) en HTML5, CSS3 et avec Bootst
 
 ## Démonstration
 
-Lien vers le projet :
+Lien vers le projet : https://aperbet56.github.io/formulaire_avec_bootstrap/
 
 ## Projet développé avec
 
